@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./data-analyst-banner.png" width="100%">
+  <img src="./data-analyst-banner.png" width="75%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Saify Sharma</h1>
@@ -25,10 +25,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/saify-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:saify19sharma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -54,31 +54,31 @@
 
 ### 🛒 E-commerce Business Analytics
 
-Analyzed e-commerce transactions and customer behavior to understand revenue trends, product performance, purchasing behavior, marketing conversion and funnel drop-offs.
+Analyzed sales performance, product performance, customer behavior, marketing effectiveness, and the purchase funnel using SQL and Power BI.
 
-**Tools:** SQL | Power BI
+**Tools:** MySQL | Power BI
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/saifysharma/ecommerce-business-analytics)
 
 ---
 
-### 👥 Customer Retention & Marketing Analytics
+### 👥 Customer Retention & Marketing Performance Analytics
 
-Analyzed customer behavior and marketing performance to identify patterns related to customer retention, churn and spending.
+Analyzed customer retention, churn, customer lifetime value, customer experience, and marketing-channel performance using Python and SQL.
 
-**Tools:** Python | SQL
+**Tools:** Python | SQL | Pandas | NumPy | MySQL
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/saifysharma/customer_retention_marketing_performance_analytics)
 
 ---
 
 ### 🚗 Uber Ride Analytics 2024
 
-Analyzed ride bookings to understand booking outcomes, cancellations, operational issues and factors affecting successful ride completion.
+Analyzed Uber ride bookings to understand booking outcomes, cancellations, and operational factors affecting successful ride completion.
 
 **Tools:** Python | SQL | Power BI
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/saifysharma/Uber-Ride-Analysis)
 
 ---
 
