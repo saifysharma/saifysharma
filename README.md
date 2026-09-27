@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./data-analyst-banner.png" width="100%" alt="Data Analyst">
+  <img src="./data-analyst-banner-github.png" width="100%" alt="Data Analyst">
 </p>
 
 <h1 align="center">Hi 👋, I'm Saify Sharma</h1>
